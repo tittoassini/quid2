@@ -3,7 +3,7 @@ An umbrella repository for projects related to Quid2, a general framework for th
 The sub projects are:
 * [quid2-net](https://github.com/tittoassini/quid2-net)
   * API for quid2-net, a *simple*, *accurate* and *free* messaging service.
-* [typed](typed)
+* [typed](https://github.com/tittoassini/typed)
   * Language independent, absolute types.
 * [flat](https://github.com/tittoassini/flat)
   * Principled and efficient serialization.
