@@ -1,0 +1,12 @@
+[submodule "model"]
+	path = model
+	url = https://github.com/tittoassini/model
+[submodule "flat"]
+	path = flat
+	url = https://github.com/tittoassini/flat
+[submodule "typed"]
+	path = typed
+	url = https://github.com/tittoassini/typed
+[submodule "quid2-net"]
+	path = quid2-net
+	url = https://github.com/tittoassini/quid2-net
