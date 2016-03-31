@@ -3,11 +3,12 @@ An umbrella repository for projects related to Quid2, a general framework for th
 The sub projects are:
 * [quid2-net](https://github.com/tittoassini/quid2-net)
   * API for quid2-net, a *simple*, *accurate* and *free* messaging service.
-* [typed](https://github.com/tittoassini/typed)
+* [typed](typed)
   * Language independent, absolute types.
 * [flat](https://github.com/tittoassini/flat)
   * Principled and efficient serialization.
 * [model](https://github.com/tittoassini/model)
   * Derivation of data type models from Haskell data types.
 
-At this time the only usable project is [quid2-net](https://github.com/tittoassini/quid2-net) so that's where you want to [teleport yourself](https://github.com/tittoassini/quid2-net).
+At this time the only directly usable project is [quid2-net](https://github.com/tittoassini/quid2-net) so that's where you should [teleport yourself](https://github.com/tittoassini/quid2-net).
+
