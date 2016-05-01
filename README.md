@@ -10,5 +10,7 @@ The sub projects are:
 * [model](https://github.com/tittoassini/model)
   * Derivation of data type models from Haskell data types.
 
+A related project is [router](https://github.com/tittoassini/router), the message router used to implement the [quid2-net](https://github.com/tittoassini/quid2-net) service.
+
 At this time the only directly usable project is [quid2-net](https://github.com/tittoassini/quid2-net) so that's where you should [teleport yourself](https://github.com/tittoassini/quid2-net).
 
