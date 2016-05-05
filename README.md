@@ -1,6 +1,10 @@
 An umbrella repository for projects related to Quid2, a general framework for the definition, sharing, preservation and transfer of data.
 
 The sub projects are:
+* [quid2-net-apps-ghcjs](https://github.com/tittoassini/quid2-net-apps-ghcjs)
+  * Example WWW applications for [quid2-net](https://github.com/tittoassini/quid2-net), using [ghcjs](https://github.com/ghcjs/ghcjs).
+* [quid2-net-apps](https://github.com/tittoassini/quid2-net-apps)
+  * Example applications for [quid2-net](https://github.com/tittoassini/quid2-net).
 * [quid2-net](https://github.com/tittoassini/quid2-net)
   * API for quid2-net, a *simple*, *accurate* and *free* messaging service.
 * [typed](https://github.com/tittoassini/typed)
