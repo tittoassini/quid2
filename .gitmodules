@@ -10,3 +10,9 @@
 [submodule "quid2-net"]
 	path = quid2-net
 	url = https://github.com/tittoassini/quid2-net
+[submodule "quid2-net-apps"]
+	path = quid2-net-apps
+	url = https://github.com/tittoassini/quid2-net-apps
+[submodule "quid2-net-apps-ghcjs"]
+	path = quid2-net-apps-ghcjs
+	url = https://github.com/tittoassini/quid2-net-apps-ghcjs
