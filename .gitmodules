@@ -7,12 +7,12 @@
 [submodule "typed"]
 	path = typed
 	url = https://github.com/tittoassini/typed
-[submodule "quid2-net"]
-	path = quid2-net
-	url = https://github.com/tittoassini/quid2-net
-[submodule "quid2-net-apps"]
-	path = quid2-net-apps
-	url = https://github.com/tittoassini/quid2-net-apps
-[submodule "quid2-net-apps-ghcjs"]
-	path = quid2-net-apps-ghcjs
-	url = https://github.com/tittoassini/quid2-net-apps-ghcjs
+[submodule "top-apps-ghcjs"]
+	path = top-apps-ghcjs
+	url = https://github.com/tittoassini/top-apps-ghcjs.git
+[submodule "top-apps"]
+	path = top-apps
+	url = https://github.com/tittoassini/top-apps.git
+[submodule "top"]
+	path = top
+	url = https://github.com/tittoassini/top.git
