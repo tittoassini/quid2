@@ -19,7 +19,7 @@ There is however a part of it that is quite usable and possibly also useful: [to
 
 ### Included and Related Projects
 
-The sub projects are:
+Quid2's sub projects are:
 * [top-apps-ghcjs](https://github.com/tittoassini/top-apps-ghcjs)
   * Example WWW applications for [top](https://github.com/tittoassini/top), using [ghcjs](https://github.com/ghcjs/ghcjs).
 * [top-apps](https://github.com/tittoassini/top-apps)
@@ -39,7 +39,7 @@ A related project is [router](https://github.com/tittoassini/router), the messag
 
 `git clone --recursive https://github.com/tittoassini/quid2.git;cd quid2;stack build`
 
-This will retrieve the whole quid2 suite and build all subprojects except [quid2-net-apps-ghcjs](https://github.com/tittoassini/top-apps-ghcjs), as setting up ghcjs takes a long time.
+This will retrieve the whole quid2 suite and build all subprojects except [top-apps-ghcjs](https://github.com/tittoassini/top-apps-ghcjs), as setting up ghcjs takes a long time.
 
 To verify that all works, start up the `top-chat` program:
 
