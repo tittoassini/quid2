@@ -1,10 +1,10 @@
-An umbrella repository for projects related to Quid2.
+An umbrella repository for projects related to [Quid2](http://quid2.org/).
 
 ### What Is Quid2? 
 
 Quid2 (pronounced *[quidquid](https://en.wiktionary.org/wiki/quidquid)*) is a general framework for the definition, preservation and sharing of data.
 
-It is composed by a suite of mini-specifications and corresponding reference implementations to:
+It is composed by a suite of [mini-specifications](http://quid2.org/) and corresponding reference implementations to:
 * create canonical, language independent, data type definitions
 * convert canonical data values to and from an efficient and principled binary format
 * use a content-oriented transport protocol for large-scale data exchange
